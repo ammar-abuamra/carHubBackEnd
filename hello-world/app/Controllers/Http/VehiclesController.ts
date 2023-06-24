@@ -4,7 +4,7 @@ import { schema } from '@ioc:Adonis/Core/Validator'
 
 
 
-export default class VehiclesController {
+export default class git {
 
     public async getAll(ctx: HttpContextContract) {
 
